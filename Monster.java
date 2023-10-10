@@ -1,8 +1,3 @@
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Iterator;
-
 public class Monster extends Creature {
 
     public static ArrayList<Monster> monsters = new ArrayList<>();
