@@ -1,5 +1,3 @@
-import java.util.Random;
-
 public class Creature {
 
     protected final int MAX_HEALTH = 100;
